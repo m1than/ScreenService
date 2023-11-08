@@ -1,0 +1,63 @@
+{
+  "completed": [
+    {
+      "orderNumber": "01",
+      "dateWithTime": "2023-10-13T16:24:16.2330000+05:00",
+      "clientName": "Заказ № 351",
+      "settings": {
+        "showKitchenNames": false,
+        "kitchenNames": [
+          "Бар",
+          "Кухня"
+        ],
+        "maxNotCompletedCount": 16,
+        "maxCompletedCount": 6,
+        "useKitchenFilter": false,
+        "useOrderNumberInsteadOfTableNumber": false,
+        "showClientName": false
+      },
+      "formattedTime": "16:24",
+      "elapsedTime": "Несколько дней"
+    }
+  ],
+  "notCompleted": [
+    {
+      "orderNumber": "01",
+      "dateWithTime": "2023-10-18T15:12:49.2480000+05:00",
+      "clientName": "Заказ № 425",
+      "settings": {
+        "showKitchenNames": false,
+        "kitchenNames": [
+          "Бар",
+          "Кухня"
+        ],
+        "maxNotCompletedCount": 16,
+        "maxCompletedCount": 6,
+        "useKitchenFilter": false,
+        "useOrderNumberInsteadOfTableNumber": false,
+        "showClientName": false
+      },
+      "formattedTime": "15:12",
+      "elapsedTime": "Несколько дней"
+    },
+    {
+      "orderNumber": "01",
+      "dateWithTime": "2023-10-13T16:29:53.8520000+05:00",
+      "clientName": "аля",
+      "settings": {
+        "showKitchenNames": false,
+        "kitchenNames": [
+          "Бар",
+          "Кухня"
+        ],
+        "maxNotCompletedCount": 16,
+        "maxCompletedCount": 6,
+        "useKitchenFilter": false,
+        "useOrderNumberInsteadOfTableNumber": false,
+        "showClientName": false
+      },
+      "formattedTime": "16:29",
+      "elapsedTime": "Несколько дней"
+    }
+  ]
+}
