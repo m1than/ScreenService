@@ -9,7 +9,6 @@ export class IntegratorService {
             await writeFile(source, data);
 
             return source;
-
         } catch (e) {
             throw new Error(e);
         }
